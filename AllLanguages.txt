@@ -3,9 +3,9 @@ some text
 French
 Swahili
 Inuktitut
-Spanish
 English
 Swinomish
 Berber
 Klingon
 German
+garbage
